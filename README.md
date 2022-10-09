@@ -1,13 +1,13 @@
 ### Hola! Soy Lloyka Pérez 👋
 
-En la ruta de ser una desarrolladora web.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
 
 Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. La llegada de la pandemia me llevo a volcar mi trabajo al mundo virtual. Durante estos últimos 2 años he trabajado como productora técnica de proyectos culturales que tuvieron que adaptarse a diversas plataformas y aplicaciones web.
 
 Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
 
 
-## 📊Stats/Estadística:
+## 📊 Estadística:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=algolia&show_icons=true)](https://github.com/lloykaperez/github-readme-stats)
 
 <!--
