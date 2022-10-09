@@ -1,4 +1,4 @@
-### Hola! Soy Lloyka Pérez 👋
+### Hola! Soy Lloyka Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=En+la+ruta+de+ser+una+desarrolladora+web.)](https://git.io/typing-svg)
 
