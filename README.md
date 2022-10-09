@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hola! Soy Lloyka Pérez 👋
 
-Readme en construcción! 
+En la ruta de ser una desarrolladora web.
+
+Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. La llegada de la pandemia me llevo a volcar mi trabajo al mundo virtual. Durante estos últimos 2 años he trabajado como productora técnica de proyectos culturales que tuvieron que adaptarse a diversas plataformas y aplicaciones web.
+
+Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
 
 <!--
 **lloykaperez/lloykaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
