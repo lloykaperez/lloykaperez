@@ -7,7 +7,7 @@ Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. 
 Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
 
 
-## 📊 Estadísticas:
+## 📊 Estadísticas
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -18,7 +18,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-### 👩‍💻 Lenguajes de Programación
+## 👩‍💻 Lenguajes de Programación
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -27,7 +27,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks y Librerías
+## 🧰 Frameworks y Librerías
 
 <p>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
@@ -35,7 +35,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a> 
 </p>
 
-### 💻 Software y herramientas
+## 💻 Software y herramientas
 
 <p>
 <img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
@@ -43,7 +43,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>   
 </p>
 
-### 💼 Porfolio y CV
+## 💼 Porfolio y CV
 
 <p>
 <a href="https://github.com/lloykaperez"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -51,7 +51,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 <a href="https://www.linkedin.com/in/lloykaperez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### 💬 Redes
+## 💬 Redes
 
 <p>
 <a href="https://www.instagram.com/lloykaperez/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
