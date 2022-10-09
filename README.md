@@ -6,6 +6,10 @@ Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. 
 
 Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
 
+
+## 📊Stats/Estadística:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=algolia&show_icons=true)](https://github.com/lloykaperez/github-readme-stats)
+
 <!--
 **lloykaperez/lloykaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
