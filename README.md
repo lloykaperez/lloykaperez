@@ -17,6 +17,8 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lloykaperez/lloykaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
