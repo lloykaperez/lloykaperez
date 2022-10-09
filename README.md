@@ -15,7 +15,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=algolia&show_icons=true)](https://github.com/lloykaperez/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lloykaperez&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
