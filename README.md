@@ -16,9 +16,7 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lloykaperez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Lenguajes de Programación
+### 👩‍💻 Lenguajes de Programación
 
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -30,8 +28,9 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 ### 🧰 Frameworks y Librerías
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_On_Rails_Logo.svg?logo=ruby&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
