@@ -57,6 +57,8 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 <a href="https://www.instagram.com/lloykaperez/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D84EH4D)
+
 
 
 
