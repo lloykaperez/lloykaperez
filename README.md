@@ -54,7 +54,8 @@ Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo 
 ## 💬 Redes
 
 <p>
-<a href="https://social.anartist.org/@laloica"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/%40laloica%40social.anartist.org"></a>
+<a href="https://social.anartist.org/@laloica"><img alt="Liberapay giving" src="https://img.shields.io/liberapay/gives/laloica">
+</a>
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D84EH4D)
